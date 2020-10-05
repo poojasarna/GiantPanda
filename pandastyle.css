@@ -13,4 +13,6 @@ img{
     border: dotted 20px;
     padding: 50px;
 }
-
+p{
+    border: solid 5px red;
+}
