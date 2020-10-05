@@ -6,3 +6,10 @@ body{
 img{
     width: 100%;
 }
+
+.column{
+    width: 600px;
+    margin: 40px auto;
+    border: dotted 20px;
+}
+
